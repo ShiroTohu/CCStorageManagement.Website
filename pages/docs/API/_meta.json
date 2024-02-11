@@ -1,0 +1,14 @@
+{
+    "chest": {
+        "title": "chest/"
+    },
+    "computer": {
+        "title": "computer/"
+    },
+    "item": {
+        "title": "item/"
+    },
+    "network": {
+        "title": "network/"
+    }
+}
