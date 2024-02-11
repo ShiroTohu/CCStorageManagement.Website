@@ -4,5 +4,9 @@
         "theme": {
             "layout": "raw"
         }
+    },
+    "docs": {
+        "title": "Documentation",
+        "type": "page"
     }
 }
